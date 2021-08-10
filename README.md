@@ -18,4 +18,4 @@ namespace PHPSTORM_META {
 }
 ```
 
-Now, phpstorm know the type of variable `$class`.
+Now, phpstorm knows the type of variable `$class`.
