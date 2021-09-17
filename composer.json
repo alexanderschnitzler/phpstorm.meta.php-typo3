@@ -1,0 +1,7 @@
+{
+    "name": "alexanderschnitzler/phpstorm.meta.php-typo3",
+    "description": "This package contains a .phpstorm.meta.php file which can be used to ease the work with TYPO3 projects in phpstorm.",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
